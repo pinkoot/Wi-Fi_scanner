@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV=/home/pinkot/Programming/Wi-fi_sniffer/venv
+VIRTUAL_ENV=/home/pinkot/Programming/Wi-fi_scanner/venv
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
